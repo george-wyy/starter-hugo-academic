@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: yihua_c@buaa.edu.cn
+    link: mailto:yihua_c@buaa.edu.cn
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.hk/citations?user=cGn8lUAAAAAJ&hl=zh-CN
@@ -23,10 +23,10 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: Beihang University
-      year: 2017
+      year: ""
     - course: B.S. in Computer Science
       institution: Beijing University of Posts and Telecommunications
-      year: 2010
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
