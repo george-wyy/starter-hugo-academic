@@ -1,7 +1,7 @@
 ---
 title: Yihua Cheng
 role: Ph.D.  Candidate of Computer Science
-avatar_filename: 1寸.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include computer vision and human gaze analysis.
 interests:
   - Computer Vision
