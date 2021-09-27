@@ -1,7 +1,7 @@
 ---
 title: Yihua Cheng
 role: Ph.D.  Candidate of Computer Vision
-bio: My research interests include computer vision, human gaze analysis.
+bio: My research interests include computer vision and human gaze analysis.
 interests:
   - Computer Vision
   - Human Gaze Analysis
@@ -39,9 +39,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Yihua Cheng is currently  pursuing Ph.D degree of computer science at the Beihang University. He has a long research experience about gaze estimation and his research interests includes computer vision and human gaze analysis.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yihua Cheng receives B.S. degree of Computer Science from Beijing University of Posts and Telecommunications in 2017. Then, he enters Beihang University and pursues Ph.D. degree with the supervision of Prof. FengLu.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
