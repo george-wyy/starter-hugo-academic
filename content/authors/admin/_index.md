@@ -23,10 +23,10 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: Beihang University
-      year: ""
+      year: 2022
     - course: B.S. in Computer Science
       institution: Beijing University of Posts and Telecommunications
-      year: ""
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
