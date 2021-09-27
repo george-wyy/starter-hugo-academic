@@ -1,6 +1,6 @@
 ---
 title: Yihua Cheng
-role: Ph.D.  Candidate of Computer Vision
+role: Ph.D.  Candidate of Computer Science
 bio: My research interests include computer vision and human gaze analysis.
 interests:
   - Computer Vision
@@ -8,33 +8,24 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: yihua_c@buaa.edu.cn
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?user=cGn8lUAAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/yihuacheng
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Beihang University
+    url: https://ev.buaa.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Computer Science
+      institution: Beihang University
+      year: 2017
+    - course: B.S. in Computer Science
+      institution: Beijing University of Posts and Telecommunications
+      year: 2010
 email: ""
 superuser: true
 highlight_name: true
